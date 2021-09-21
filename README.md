@@ -8,4 +8,4 @@ to run the spec file use this command
 
 to generate allure report run this command
 
-2)allure generate  --clean "D:\dir" && allure open
+2)allure generate  --clean "dir_path" && allure open
