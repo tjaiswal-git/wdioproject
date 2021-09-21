@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//input[@value='official']/parent::div/div/label/span[1]"
+}

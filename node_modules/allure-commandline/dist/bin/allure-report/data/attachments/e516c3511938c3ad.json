@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//input[@value='store']/parent::div/div/label/span"
+}
